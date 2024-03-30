@@ -1,0 +1,34 @@
+{
+  "groups": [
+    {
+      "name": "kevinhuang.simple.rpc",
+      "type": "com.kevinhuang.simplerpc.property.RpcProperties",
+      "sourceType": "com.kevinhuang.simplerpc.property.RpcProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "kevinhuang.simple.rpc.expose-port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.kevinhuang.simplerpc.property.RpcProperties",
+      "defaultValue": 6666
+    },
+    {
+      "name": "kevinhuang.simple.rpc.protocol",
+      "type": "java.lang.String",
+      "sourceType": "com.kevinhuang.simplerpc.property.RpcProperties",
+      "defaultValue": "java"
+    },
+    {
+      "name": "kevinhuang.simple.rpc.register",
+      "type": "java.lang.String",
+      "sourceType": "com.kevinhuang.simplerpc.property.RpcProperties"
+    },
+    {
+      "name": "kevinhuang.simple.rpc.register-address",
+      "type": "java.lang.String",
+      "sourceType": "com.kevinhuang.simplerpc.property.RpcProperties"
+    }
+  ],
+  "hints": []
+}
